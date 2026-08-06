@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-tlagx6.pulaucuan.org/sitemap.xml
